@@ -126,10 +126,3 @@ The Power BI dashboard above brings all findings together in one interactive vie
 ├── dashboard/
 │   └── customer_behavior_dashboard.pbix   # Power BI dashboard file
 └── README.md
-
-## Author
-
-**Muhammad Bin Faisal**
-Data Analyst | SQL • Python • Excel • Power BI
-📧 mbfaisal85@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-bin-faisal-856394366/) | [GitHub](https://github.com/Muhammad123-cell)
