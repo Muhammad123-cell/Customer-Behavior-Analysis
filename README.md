@@ -126,21 +126,6 @@ The Power BI dashboard above brings all findings together in one interactive vie
 ├── dashboard/
 │   └── customer_behavior_dashboard.pbix   # Power BI dashboard file
 └── README.md
-```
-
----
-
-## How to Reproduce
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/Muhammad123-cell/Customer-Behavior-Analysis.git
-   ```
-2. Run the Python notebook in `notebooks/` to clean the data and generate the processed dataset
-3. Load the cleaned data into PostgreSQL and run the queries in `sql/business_queries.sql`
-4. Open `dashboard/customer_behavior_dashboard.pbix` in Power BI to explore the interactive dashboard
-
----
 
 ## Author
 
