@@ -7,7 +7,7 @@ An end-to-end data analytics project that cleans, analyzes, and visualizes **3,9
 # Dashboard Preview
 
 <p align="center">
-  <img src="assets/customer-behavior-dashboard.png" alt="Customer Behavior Dashboard" width="100%">
+  <img src="customer-behavior-dashboard.png" alt="Customer Behavior Dashboard" width="100%">
 </p>
 
 ---
