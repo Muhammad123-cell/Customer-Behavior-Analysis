@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 
 A end-to-end data analytics project that cleans, analyzes, and visualizes 3,900 customer transactions to uncover spending patterns, customer segments, and subscription behavior — built with **Python, SQL (PostgreSQL), and Power BI**.
 
@@ -6,7 +6,7 @@ A end-to-end data analytics project that cleans, analyzes, and visualizes 3,900 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes customer shopping behavior using transactional data from **3,900 purchases** across multiple product categories. The goal was to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide data-driven business decisions — such as where to focus marketing spend, which products are discount-dependent, and which customers drive the most revenue.
 
@@ -14,7 +14,7 @@ The workflow covers the full analytics pipeline: **data cleaning in Python → s
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Clean and prepare raw transactional data for analysis
 - Answer key business questions using SQL (revenue drivers, customer segments, product performance)
@@ -23,7 +23,7 @@ The workflow covers the full analytics pipeline: **data cleaning in Python → s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -34,7 +34,7 @@ The workflow covers the full analytics pipeline: **data cleaning in Python → s
 
 ---
 
-## 🗂️ Dataset Summary
+## Dataset Summary
 
 - **Rows:** 3,900
 - **Columns:** 18
@@ -57,7 +57,7 @@ The workflow covers the full analytics pipeline: **data cleaning in Python → s
 
 ---
 
-## 🔎 SQL Analysis — Business Questions Answered
+## SQL Analysis — Business Questions Answered
 
 10 structured SQL queries were written in PostgreSQL to answer key business questions:
 
@@ -74,7 +74,7 @@ The workflow covers the full analytics pipeline: **data cleaning in Python → s
 
 ---
 
-## 📊 Dashboard (Power BI)
+## Dashboard (Power BI)
 
 The Power BI dashboard above brings all findings together in one interactive view:
 
@@ -91,7 +91,7 @@ The Power BI dashboard above brings all findings together in one interactive vie
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **Male customers generated over 2x the revenue of female customers** ($157,890 vs. $75,191)
 - **3,116 of 3,900 customers (80%)** were segmented as **"Loyal"**, indicating a highly retained customer base
@@ -102,7 +102,7 @@ The Power BI dashboard above brings all findings together in one interactive vie
 
 ---
 
-## ✅ Business Recommendations
+## Business Recommendations
 
 - **Boost Subscriptions** — Promote exclusive benefits to convert the 73% non-subscriber base
 - **Customer Loyalty Programs** — Reward repeat buyers to grow the "Loyal" segment further
@@ -112,7 +112,7 @@ The Power BI dashboard above brings all findings together in one interactive vie
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── assets/
@@ -130,7 +130,7 @@ The Power BI dashboard above brings all findings together in one interactive vie
 
 ---
 
-## 🚀 How to Reproduce
+## How to Reproduce
 
 1. Clone the repository
    ```bash
@@ -142,7 +142,7 @@ The Power BI dashboard above brings all findings together in one interactive vie
 
 ---
 
-## 👤 Author
+## Author
 
 **Muhammad Bin Faisal**
 Data Analyst | SQL • Python • Excel • Power BI
